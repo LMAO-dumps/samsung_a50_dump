@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-A505FN</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>OEM</MultiCode>
+    <CustomerDataSet>
+        <CSCName>A505FNOEM</CSCName>
+        <CSCVersion>9CVG2</CSCVersion>
+        <NbCustomer>1</NbCustomer>
+        <CustomerData src="/Customer/SER/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>SER</CustomerCode>
+            <Version>SAOMC_SM-A505FN_OEM_SER_RR_0012</Version>
+            <CustomerEdition>ED0011</CustomerEdition>
+            <Packages>
+                <package name="ru.samsung.catalog" />
+            </Packages>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>

@@ -1,0 +1,2 @@
+/product/app/Yandex_App_9.20/Yandex_App_9.20.apk
+/product/priv-app/appcloud_oobe_samsungGlobal-release_V4.0.0.5/appcloud_oobe_samsungGlobal-release_V4.0.0.5.apk
